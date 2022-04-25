@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32228.430
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ForumBee.API", "ForumBee\ForumBee.API.csproj", "{BFB06552-9B60-46EB-989E-51A543720943}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ForumBee.Models", "ForumBee.Models\ForumBee.Models\ForumBee.Models.csproj", "{35C0E402-98D0-4B70-90E3-E79931274356}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BFB06552-9B60-46EB-989E-51A543720943}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFB06552-9B60-46EB-989E-51A543720943}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFB06552-9B60-46EB-989E-51A543720943}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFB06552-9B60-46EB-989E-51A543720943}.Release|Any CPU.Build.0 = Release|Any CPU
+		{35C0E402-98D0-4B70-90E3-E79931274356}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35C0E402-98D0-4B70-90E3-E79931274356}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35C0E402-98D0-4B70-90E3-E79931274356}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35C0E402-98D0-4B70-90E3-E79931274356}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3BED685E-0154-482B-B14A-AADCCD5956C1}
+	EndGlobalSection
+EndGlobal
